@@ -1,0 +1,10 @@
+guitarra
+bateria
+baixo
+piano
+flauta
+saxofone
+sanfona
+violino
+trompete
+pandeiro

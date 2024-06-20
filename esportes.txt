@@ -1,0 +1,10 @@
+ciclismo
+volei
+basquete
+futebol
+golfe
+beisebol
+hipismo
+karate
+atletismo
+natacao
